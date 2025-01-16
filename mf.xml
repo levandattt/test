@@ -3,7 +3,7 @@
 		<Patient PatientID="STUDY-1959">
 			<Study StudyInstanceUID="1.2.840.113619.2.176.2025.1499492.7409.1172755464.916">
 				<Series SeriesInstanceUID="1.2.840.113619.2.176.2025.1499492.7409.1172755464.914" SeriesNumber="1">
-					<Instance DirectDownloadFile="?patientId=STUDY-1959&studyInstanceUID=1.2.276.0.7230010.3.1.2.2831181056.2775482.1726619433.424642&seriesInstanceUID=1.2.276.0.7230010.3.1.3.2831181056.2775482.1726619433.424643" InstanceNumber="1"/>
+					<Instance DirectDownloadFile="?patientId=STUDY-1959&amp;studyInstanceUID=1.2.276.0.7230010.3.1.2.2831181056.2775482.1726619433.424642&amp;seriesInstanceUID=1.2.276.0.7230010.3.1.3.2831181056.2775482.1726619433.424643" InstanceNumber="1"/>
 				</Series>
 			</Study>
 		</Patient>
