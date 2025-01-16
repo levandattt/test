@@ -1,0 +1,11 @@
+<manifest xmlns="http://www.weasis.org/xsd/2.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<arcQuery arcId="1000" baseUrl="http://localhost:6969/api/v1/studies/series">
+		<Patient PatientID="STUDY-1959">
+			<Study StudyInstanceUID="1.2.840.113619.2.176.2025.1499492.7409.1172755464.916">
+				<Series SeriesInstanceUID="1.2.840.113619.2.176.2025.1499492.7409.1172755464.914" SeriesNumber="1">
+					<Instance DirectDownloadFile="?patientId=STUDY-1959&studyInstanceUID=1.2.276.0.7230010.3.1.2.2831181056.2775482.1726619433.424642&seriesInstanceUID=1.2.276.0.7230010.3.1.3.2831181056.2775482.1726619433.424643" InstanceNumber="1"/>
+				</Series>
+			</Study>
+		</Patient>
+	</arcQuery>
+</manifest>
